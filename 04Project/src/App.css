@@ -1,0 +1,85 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.C1{
+ height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items:end;
+  transition: background-color 0.5s ease;
+  
+
+}
+.Container{
+  height: 50px;
+       width: 1000px;
+       background-color: yellowgreen;
+       display: flex;
+       justify-content: center;
+       margin: 0px 0px 30px 0px;
+      
+}
+.Red{
+  background-color: red;
+  border-radius: 5px;
+  padding: 0px 20px;
+  margin: 8px;
+}
+.Green{
+  background-color: Green;
+  border-radius: 5px;
+  padding: 0px 20px;
+  margin: 8px;
+}
+.Yellow{
+  background-color: Yellow;
+  border-radius: 5px;
+  padding: 0px 20px;
+  margin: 8px;
+}
+.Blue{
+  background-color:Blue;
+  border-radius: 5px;
+  padding: 0px 20px;
+  margin: 8px;
+}
+.Skyblue{
+  background-color:Skyblue;
+  border-radius: 5px;
+  padding: 0px 20px;
+  margin: 8px;
+}
+.Grey{
+  background-color:Grey;
+  border-radius: 5px;
+  padding: 0px 20px;
+  margin: 8px;
+}
+.Orange{
+  background-color:orange;
+  border-radius: 5px;
+  padding: 0px 20px;
+  margin: 8px;
+}
+.Purple{
+  background-color:purple;
+  border-radius: 5px;
+  padding: 0px 20px;
+  margin: 8px;
+}
+.Pink{
+  background-color:pink;
+  border-radius: 5px;
+  padding: 0px 20px;
+  margin: 8px;
+}
+.white{
+  background-color: whitesmoke;
+  border-radius: 5px;
+  padding: 0px 20px;
+  margin: 8px;
+}
