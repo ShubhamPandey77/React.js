@@ -1,0 +1,16 @@
+div{
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+img{
+  height: 200px;
+  width: 250px;
+  margin: 5px;
+  overflow: hidden;
+}
+.Container{
+  height: 300px;
+  width: 300px;
+  background-color: aqua;
+}
