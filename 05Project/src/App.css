@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.box{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.b1{
+  padding: 20px 10px 50px 90px;
+  background-color: #21b938;
+  width: 400px;
+  height: 200px;
+  
+}
+button{
+  width: 50px;
+  border-radius: 7px;
+  background-color:#0d6efd;
+}
+input[type="range"] {
+  width: 150px;
+  height: 6px;
+  background: #ddd;
+  border-radius: 5px;
+  outline: none;
+}
+#num{
+  margin: 3px;
+  padding: 10px;
+}
+#char{
+  margin: 3px;
+}
