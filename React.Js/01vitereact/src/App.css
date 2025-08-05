@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.C1 img {
+  width: 300px;       /* Adjust as needed */
+  height: auto;       /* Maintains aspect ratio */
+  border-radius: 8px; /* Optional: rounded corners */
+  object-fit: cover;  /* Optional: crop/fill neatly */
+  margin-bottom: 10px;
+}
+img{
+    background-size: 200px;
+}
+.c2{
+    height: 100px;
+    width: 400px;
+}

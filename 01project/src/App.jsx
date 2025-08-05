@@ -11,7 +11,7 @@ function App() {
 
 //hooks and function humesha starting function ke next line se hi start honge not after if else
  
-let [counter,setcounter] = useState(0)
+let [counter,setcounter] = useState(0) 
 
   const addValue = () =>{
     if(counter <20 )

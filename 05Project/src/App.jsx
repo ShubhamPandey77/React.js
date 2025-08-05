@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback ,useRef} from 'react';
 import './App.css';
 
 function App() {
@@ -7,6 +7,9 @@ function App() {
   const [char, setChar] = useState(false);
   const [pass, setPass] = useState('');
 
+
+  // useref for copying data
+ 
   // Generate password
   const passwordGenerator = useCallback(() => {
     let password = '';
