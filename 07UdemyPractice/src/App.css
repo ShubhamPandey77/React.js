@@ -1,0 +1,12 @@
+menu{
+    display: flex;
+    background-color: #ab43ab;
+    color: aquamarine;
+}
+Tabbutton{
+    color: yellowgreen;
+    background-color: rgb(64, 38, 88);
+}
+p{
+    background-color: #432df4;
+}

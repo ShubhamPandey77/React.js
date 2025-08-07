@@ -1,0 +1,12 @@
+.T1{
+    width: 95vw;
+    display:flex;
+    justify-content: center;
+    padding: 20px;
+}
+button{
+    background-color: #432df4;
+}
+button:hover{
+    background-color: #543290;
+}
