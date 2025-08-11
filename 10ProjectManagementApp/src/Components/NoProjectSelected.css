@@ -1,0 +1,40 @@
+.no{
+    margin-top: 50px;
+}
+
+img{
+    margin-top: 170px;
+    width: 160px;
+    height: 120px;
+    object-fit: contain;
+}
+.head2{
+    line-height: 0px;
+    margin-left: 150px;
+    margin-bottom: 0px;
+}
+.no1{
+    display: flex;
+    justify-content: center;
+ 
+}
+.no2{
+    display: flex;
+    justify-content: center;
+    
+}
+.p1{
+    display: flex;
+    justify-content: center;
+    margin-top: none;
+    line-height: 1px;
+    
+    
+}
+.Createprobtn{
+    border-radius: 8px;
+margin: 20px;
+padding: 15px;
+border: 2px solid black;
+background-color: #818181;
+}
