@@ -1,0 +1,27 @@
+ul{
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  border: 2px solid black;
+  margin: 0;
+  padding: 15px;
+}
+input{
+  padding: 15px;
+  margin: 5px;
+  border: 2px solid black;
+  border-radius: 6px;
+  
+}
+.inpt{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30px;
+  margin-bottom: 20px;
+
+}
+.butt{
+   display: flex;
+   margin-left: 0px;
+}
